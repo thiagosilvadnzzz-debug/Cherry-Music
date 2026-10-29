@@ -1,29 +1,25 @@
-CHERRY MUSIC — PROPRIETARY LICENSE
+Cherry Music — Copyright and Attribution
 
-Copyright (c) 2026 ThZySync (@ThZySync). All rights reserved.
-
-This software, known as Cherry Music, including its source code, application files, design, graphics, branding, and related materials, is protected by applicable copyright laws.
-
-Unless expressly authorized in writing by the copyright holder, you may not:
-
-1. Copy, redistribute, publish, or republish this software or substantial portions of it.
-2. Modify, adapt, or create derivative works based on this software.
-3. Sell, sublicense, rent, or commercially distribute this software.
-4. Re-upload or distribute modified or unmodified APK files.
-5. Use the Cherry Music name, branding, or graphics in a way that implies official authorization.
-
-No rights or licenses are granted except those expressly authorized in writing by the copyright holder.
-
-This license does not transfer ownership of the software or its intellectual property.
-
-Third-party components may be subject to their own licenses and terms.
-
-For permission to use, modify, or distribute this software, contact the copyright holder: @ThZySync.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
-
-All rights reserved.
-
-Author and copyright holder: ThZySync (@ThZySync)
 Project: Cherry Music
+Developer: ThZySync (@ThZySync)
 Year: 2026
+
+Original project
+
+This project is based on Square by Lelonio:
+
+https://github.com/Lelonio/Square
+
+The original project is licensed under GNU GPL v3 or later. Original copyright notices and applicable third-party license notices must be preserved.
+
+License
+
+The code covered by the GNU GPL must comply with the terms of that license. See "LICENSE" for the full license text.
+
+Certain components may be subject to additional licenses, including AGPL-3.0. Refer to their original notices for details.
+
+Cherry Music contributions
+
+Original modifications and materials created by ThZySync remain subject to their applicable copyright and license terms. This notice does not change the license of the original Square code or any third-party component.
+
+Cherry Music is an independent project and is not officially affiliated with the Square project.
